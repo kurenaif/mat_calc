@@ -1,0 +1,7 @@
+[package]
+name = "mat_test"
+version = "0.1.0"
+authors = ["kurenaif <antyobido@gmail.com>"]
+
+[dependencies]
+nalgebra = "0.11.0"
